@@ -31,3 +31,4 @@ pylint == 2.1.1
 six == 1.11.0
 typed-ast == 1.1.0
 wrapt == 1.10.11
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
